@@ -53,7 +53,7 @@ inicia a aplicação e atualiza a documentação
  ```bash
  npm clusters
  ``` 
- executa os teste com o Mocha
+ executa os testes unitários com o Mocha
   ```bash
 npm test
 ``` 
